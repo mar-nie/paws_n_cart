@@ -9,6 +9,7 @@ interface.
 My first full program created with Python! I am still continuously improving this as I learn more on my bootcamp, and will be updating with new features. 
 
 ### Actively adding:
+* Comments
 * Input operations regarding large docstrings
 * Input operations regarding the stock
 * Converting the stock list into a dictionary
