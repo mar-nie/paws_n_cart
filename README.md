@@ -10,7 +10,7 @@ My first full program created with Python! I am still continuously improving thi
 
 ### Actively adding:
 * Comments
-* Input operations regarding large docstrings
+* ✅ Input operations regarding large docstrings 
 * Input operations regarding the stock
 * Converting the stock list into a dictionary
 * Output operations to produce a reciept
