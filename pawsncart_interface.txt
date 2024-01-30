@@ -1,0 +1,124 @@
+$$$ welcome $$$
+==================================================================
+      
+                      Welcome to Paws n' Cart! 
+                            
+                               /\ /\
+                              (=^.^=)              
+                                      
+          Your premium one-stop-shop for all things pets
+
+$$$ cart_intro $$$
+==================================================================
+  This is your current shopping cart:
+$$$ menu_options $$$
+------------------------------------------------------------------
+  What would you like to do?
+  1. Browse Items
+  2. Remove an item from your cart
+  3. Resources and Advice
+  4. Check out
+------------------------------------------------------------------
+  Please enter a number from the above list:
+$$$ browsing_opening $$$
+==================================================================
+  Feel free to browse our range of products:
+$$$ browsing_command $$$
+  Please enter the number associated with the product
+  you would like to purchase, or 0 to return to main menu: 
+$$$ browsing_error $$$
+------------------------------------------------------------------  
+$$$ removal_opening $$$
+==================================================================
+  Which item would you like to remove from your cart?
+  
+  This menu will repeat so you can remove as many items as
+  you need at once. 
+$$$ removal_command $$$
+  Please enter the number associated with the product
+  you would like to remove, or 0 to return to main menu: 
+$$$ removal_error $$$
+------------------------------------------------------------------
+$$$ community_opening $$$
+==================================================================
+          Welcome to the Paws n' Cart community board!
+                
+      Here we offer pet care advice and information on ways
+      you can assist the community by volunteering locally.
+            
+      Based on the items in your cart, this is what we would
+      recommend to you:
+
+$$$ community_dogs $$$
+--DOGS------------------------------------------------------------
+
+  Guide Dogs UK:
+  Support our dogs on their way to becoming a guide dog, or by
+  looking after our dogs at different points in their journey.
+  volunteer@guidedogs.org.uk                     0345 143 0191
+
+  BarkHappy:
+  Discover the dog friendly world around you! Explore Dog
+  Friendly Places and Events, Connect with Dog Owners Nearby,
+  Even Lost and Found alerts and Deals!
+  barkhappy.com
+            
+  Dog Owner Top Tips:
+  1. ENVIRONMENT - Dogs are intelligent so if they get bored,
+  and don't have enough to do, they can suffer. You need to
+  make sure your dog can exercise outdoors every day, play and
+  interact with people or other dogs.
+  2. DIET - Your dog needs a well-balanced diet to stay fit
+  and healthy as well as constant access to fresh, clean
+  drinking water at all times.
+  3. COMPANY - Dogs are sociable animals so they need and
+  enjoy company. If they are treated well as puppies, they
+  learn to see people as friends and companions.   
+
+$$$ community_cats $$$
+--CATS------------------------------------------------------------
+  
+  Cats Protection:
+  We help an estimated 157,000 cats and kittens a year through
+  our national network which includes around 210 volunteer-run
+  branches and 34 centres.
+  cats.org.uk                                   03000 12 12 12
+  
+  catforum:
+  A forum community dedicated to breeds of cat owners and
+  enthusiasts. Come join the discussion about breeds, training,
+  kittens, food reviews, and rescues.
+  catforum.com
+  
+  Cat Owner Top Tips:
+  1. FEEDING - Cats require taurine, an essential amino acid,
+  for heart and eye health. The food you choose should be
+  balanced for the life stage of your cat or kitten. Properly
+  balanced foods will contain taurine.
+  2. HANDLING - To pick up your cat, place one hand behind the
+  front legs and another under the hindquarters. Lift gently.
+  Never pick up a cat by the scruff of the neck or by the front
+  legs.
+  3. IDENTIFICATION - If allowed outdoors, your cat must wear
+  a safety collar and an ID tag. A safety collar with an elastic
+  panel will allow your cat to break loose if the collar gets
+  caught on something.
+
+$$$ community_rabbits $$$
+--RABBITS---------------------------------------------------------
+
+  Rabbit Rehome:
+  Rabbit Rehome was set up in 2002 with the goal of helping to
+  find homes for these unwanted rabbits. Rabbit Rehome is based
+  around an internet website which includes a database of over
+  600 rabbits available for adoption, a list of rescue centres,
+  special appeals, information on volunteering, printable posters
+  and guides to rabbit care.
+  rabbitrehome.org.uk
+
+$$$ community_command $$$
+      Enter 0 to return to the main menu, or 1 to view all
+      pet advice and volunteer opportunities: 
+$$$ community_error $$$
+------------------------------------------------------------------
+  Error: Please enter 0 or 1
