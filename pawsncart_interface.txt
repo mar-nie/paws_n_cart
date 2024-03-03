@@ -25,7 +25,7 @@ $$$ browsing_opening $$$
   Feel free to browse our range of products:
 $$$ browsing_command $$$
   Please enter the number associated with the product
-  you would like to purchase, or 0 to return to main menu: 
+  you would like to purchase, or 0 to return to the main menu: 
 $$$ browsing_error $$$
 ------------------------------------------------------------------  
 $$$ removal_opening $$$
@@ -36,7 +36,7 @@ $$$ removal_opening $$$
   you need at once. 
 $$$ removal_command $$$
   Please enter the number associated with the product
-  you would like to remove, or 0 to return to main menu: 
+  you would like to remove, or 0 to return to the main menu: 
 $$$ removal_error $$$
 ------------------------------------------------------------------
 $$$ community_opening $$$
@@ -58,7 +58,7 @@ $$$ community_dogs $$$
   volunteer@guidedogs.org.uk                     0345 143 0191
 
   BarkHappy:
-  Discover the dog friendly world around you! Explore Dog
+  Discover the dog-friendly world around you! Explore Dog
   Friendly Places and Events, Connect with Dog Owners Nearby,
   Even Lost and Found alerts and Deals!
   barkhappy.com
@@ -111,7 +111,7 @@ $$$ community_rabbits $$$
   Rabbit Rehome was set up in 2002 with the goal of helping to
   find homes for these unwanted rabbits. Rabbit Rehome is based
   around an internet website which includes a database of over
-  600 rabbits available for adoption, a list of rescue centres,
+  600 rabbits available for adoption, a list of rescue centers,
   special appeals, information on volunteering, printable posters
   and guides to rabbit care.
   rabbitrehome.org.uk
