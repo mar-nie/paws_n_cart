@@ -1,0 +1,21 @@
+PSEUDOCODE:
+- Establish the cart and stock, packaged into groups individual to each animal
+- Create a base user menu which loops until the user chooses to exit, and
+displays the user's current cart contents.
+- According to numerical input within the menu, execute the following:
+    - Option 1: Add an item to the cart
+        - Display entire stock with prices and numerical key codes for the
+        user to input, in order to add it to their cart. Once they have added
+        an item return to main menu, and if they decide not to, allow them to
+        enter 0 to escape back to main menu.
+    - Option 2: Remove an item from the cart
+        - Display their current cart with numerical key codes for the user to
+        input. Repeat this until they enter 0 to return to the main menu. 
+    - Option 3: Resources and advice:
+        - Display a selection of resources specific to the animals that the
+        items in the users cart are associated with, or give them the option
+        to view all. This will display until the exit to menu by entering 0
+    - Option 4: Check out
+        - Display their final cart and offer a free sample depending on the
+        animals that the items in their cart are associated with. 
+        Exit programme.
